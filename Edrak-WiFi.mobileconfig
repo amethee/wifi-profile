@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Password</key>
+			<string>Design@2024@@</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings.</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.example.wifi.b06a69bd-99a6-4b81-bfcc-b425726a4a59</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>82490e0f-4398-4c95-b6eb-a52a16d46a70</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SSID_STR</key>
+			<string>Edrak-Design</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Profile to auto-connect to Edrak-Design Wi-Fi</string>
+	<key>PayloadDisplayName</key>
+	<string>Edrak-Design Wi-Fi Profile</string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.profile.4a450a0a-6b9d-4bb4-a8c9-3e660657a398</string>
+	<key>PayloadOrganization</key>
+	<string>Edrak</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>280c8238-3e56-41f6-b695-67cc1069f77a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
